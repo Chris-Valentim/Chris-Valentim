@@ -26,6 +26,9 @@
       alt="react logo" 
     />
   </a>
+
+<img width="12" />
+  
   <a href="https://www.typescriptlang.org/docs/">
     <img 
       src="https://img.icons8.com/fluency/48/typescript--v2.png" 
@@ -34,6 +37,9 @@
       alt="typescript logo" 
     />
   </a>
+
+<img width="12" />
+  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img 
       src="https://img.icons8.com/pulsar-gradient/48/javascript.png" 
@@ -42,6 +48,9 @@
       alt="javascript logo" 
     />
   </a>
+
+<img width="12" />
+  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img 
       src="https://img.icons8.com/color/48/css3.png" 
@@ -50,12 +59,59 @@
       alt="css3 logo" 
     />
   </a>
+
+<img width="12" />
+  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img 
       src="https://img.icons8.com/color/48/html-5--v1.png" 
       height="60"
       width="60"
       alt="html5 logo" 
+    />
+  </a>
+
+<img width="12" />
+  
+  <a href="https://git-scm.com/doc">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+      height="50" 
+      width="50"
+      alt="git logo"  
+    />
+  </a>
+
+<img width="12" />
+  
+  <a href="https://tailwindcss.com/docs/installation">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" 
+      height="60" 
+      width="60"
+      alt="tailwindcss logo" 
+    />
+  </a>
+
+<img width="12" />
+  
+  <a href="https://www.mongodb.com/lp/building-with-developer-data-platforms?utm_content=rlsapostreg&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_general_retarget-brand-postreg_gic-null_amers-all_ps-all_desktop_eng_lead&utm_term=&utm_medium=cpc_paid_search&utm_ad=&utm_ad_campaign_id=14412646452&adgroup=131761126212&cq_cmp=14412646452&gad_source=1&gclid=CjwKCAjwlbu2BhA3EiwA3yXyu1drNxsOAEM4riZXszY3zt9BExJ5oa4EYDvuNzsRgEw7NfGvio4ONhoCsRsQAvD_BwE">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
+      height="50" 
+      width="50"
+      alt="mongodb logo"  
+    />
+  </a>
+
+<img width="12" />
+  
+  <a href="https://trello.com/home">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" 
+      height="50"
+      width="50"
+      alt="trello logo"  
     />
   </a>
 </div>
