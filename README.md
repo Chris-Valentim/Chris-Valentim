@@ -71,14 +71,6 @@
       alt="logo_instagram"
     />
   </a>
-  <a href="https://discord.com/chriszao06#4961" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
-      height="35" 
-      target="_blank" 
-      alt="logo_discord" 
-    />
-  </a>
   <a href="christianvalentim99@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge"
