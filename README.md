@@ -14,106 +14,32 @@
   />
 </div>
 
-<img width="12" />
+## Tecnologias
 
-<div align="left">
-  <a href="https://react.dev/learn">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-      width="60"
-      height="60" 
-      alt="react logo" 
-    />
-  </a>
+O que venho aprendendo e utilizando até agora
 
-<img width="12" />
-  
-  <a href="https://www.typescriptlang.org/docs/">
-    <img 
-      src="https://img.icons8.com/fluency/48/typescript--v2.png" 
-      height="60"
-      width="60"
-      alt="typescript logo" 
-    />
-  </a>
+- **Frontend:**
 
-<img width="12" />
-  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img 
-      src="https://img.icons8.com/pulsar-gradient/48/javascript.png" 
-      height="60"
-      width="60"
-      alt="javascript logo" 
-    />
-  </a>
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<img width="12" />
-  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img 
-      src="https://img.icons8.com/color/48/css3.png" 
-      height="60"
-      width="60"
-      alt="css3 logo" 
-    />
-  </a>
+- **Backend:**
 
-<img width="12" />
-  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img 
-      src="https://img.icons8.com/color/48/html-5--v1.png" 
-      height="60"
-      width="60"
-      alt="html5 logo" 
-    />
-  </a>
+  ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-<img width="12" />
-  
-  <a href="https://git-scm.com/doc">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-      height="50" 
-      width="50"
-      alt="git logo"  
-    />
-  </a>
+- **Testes unitários:**
 
-<img width="12" />
-  
-  <a href="https://tailwindcss.com/docs/installation">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" 
-      height="60" 
-      width="60"
-      alt="tailwindcss logo" 
-    />
-  </a>
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-<img width="12" />
-  
-  <a href="https://www.mongodb.com/lp/building-with-developer-data-platforms?utm_content=rlsapostreg&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_general_retarget-brand-postreg_gic-null_amers-all_ps-all_desktop_eng_lead&utm_term=&utm_medium=cpc_paid_search&utm_ad=&utm_ad_campaign_id=14412646452&adgroup=131761126212&cq_cmp=14412646452&gad_source=1&gclid=CjwKCAjwlbu2BhA3EiwA3yXyu1drNxsOAEM4riZXszY3zt9BExJ5oa4EYDvuNzsRgEw7NfGvio4ONhoCsRsQAvD_BwE">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
-      height="50" 
-      width="50"
-      alt="mongodb logo"  
-    />
-  </a>
+- **Ferramentas:**
 
-<img width="12" />
-  
-  <a href="https://trello.com/home">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" 
-      height="50"
-      width="50"
-      alt="trello logo"  
-    />
-  </a>
-</div>
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ##
 
