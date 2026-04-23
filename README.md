@@ -44,35 +44,6 @@ O que venho aprendendo e utilizando até agora
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-##
-
-<div align="left">
-  <a href="https://instagram.com/chris-valentim" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-      target="_blank"
-      height="35"
-      alt="logo_instagram"
-    />
-  </a>
-  <a href="christianvalentim99@gmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge"
-      height="35" 
-      target="_blank" 
-      alt="logo_email" 
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/christian-valentim" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-      height="35" 
-      target="_blank" 
-      alt="linkedin logo" 
-    />
-  </a>
-</div>
-
 ###
 
 <picture>
